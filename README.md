@@ -6,6 +6,7 @@
 En este proyecto se implementó un programa de Árboles AVL que permite al usuario ingresar números enteros uno por uno a través de la consola.
 
 Con cada número ingresado, el árbol se imprime en la consola, mostrando su estructura actual. Cuando es necesario, el programa realiza automáticamente el balanceo del árbol AVL para mantener su propiedad de auto-equilibrio.
+
 ------------
 ### Entradas
 El usuario puede ingresar números enteros individualmente a través de la consola.
