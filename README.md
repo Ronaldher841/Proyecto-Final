@@ -11,6 +11,8 @@ Con cada número ingresado, el árbol se imprime en la consola, mostrando su est
 ### Entradas
 El usuario puede ingresar números enteros individualmente a través de la consola.
 
+![Image_Alt](https://github.com/Ronaldher841/Proyecto-Final/blob/110d58cba593fe1a45b454e52d38da0523bfdda9/Captura%20de%20pantalla%202025-05-13%20205635.png)
+
 **Ejemplo de Inserción:** `Inserte 20`, luego `Inserte 30`, `Inserte 40`, `Inserte 10`, `Inserte 25`, `Inserte 35`, `Inserte 50`, `Inserte 5`.
 
 ### Salida
