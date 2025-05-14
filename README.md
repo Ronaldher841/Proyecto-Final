@@ -16,3 +16,14 @@ El usuario puede ingresar números enteros individualmente a través de la conso
 Después de cada inserción (y al final), se imprime en la consola la representación jerárquica del Árbol AVL.
 
 **Ejemplo de Salida Final:**
+
+
+1. Clonar este repositorio.
+2. Acceder a la carpeta del proyecto.
+3. Compilar el archivo Java.
+4. Ejecutar el Programa
+5. Ingresar enteros uno por uno.
+6. Exit o -1 para salir del programa.
+
+
+`<link>` : https://youtu.be/OmLWz7IYlsA
