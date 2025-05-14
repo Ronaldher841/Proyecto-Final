@@ -17,6 +17,7 @@ Después de cada inserción (y al final), se imprime en la consola la representa
 
 **Ejemplo de Salida Final:**
 
+### Como ejecutar el Proyecto
 
 1. Clonar este repositorio.
 2. Acceder a la carpeta del proyecto.
