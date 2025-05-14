@@ -15,14 +15,7 @@ El usuario puede ingresar números enteros individualmente a través de la conso
 
 ### Salida
 Después de cada inserción (y al final), se imprime en la consola la representación jerárquica del Árbol AVL.
-                30
-               /  \
-             20    40
-            / \    / \
-           10 25  35 50
-          /
-         5
-
+             
 **Ejemplo de Salida Final:**
 ------------
 ### Como ejecutar el Proyecto
