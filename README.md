@@ -19,6 +19,9 @@ El usuario puede ingresar números enteros individualmente a través de la conso
 Después de cada inserción (y al final), se imprime en la consola la representación jerárquica del Árbol AVL.
              
 **Ejemplo de Salida Final:**
+
+![Image_Alt](https://github.com/Ronaldher841/Proyecto-Final/blob/fc76295660029472a2d64560379feb906f6e52ed/Captura%20de%20pantalla%202025-05-13%20205708.png)
+
 ------------
 ### Como ejecutar el Proyecto
 
